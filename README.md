@@ -1,2 +1,2 @@
 # Operation-saving-corgi-con
-The code of how its made and what I use 
+The code of the program how it was made and what I use 

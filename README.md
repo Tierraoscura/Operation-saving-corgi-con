@@ -1,2 +1,2 @@
 # Operation-saving-corgi-con
-The code of the program how it was made and what I use 
+ Put your logic to the ultamate test with this text adventure! Have what it takes to save corgi con from getting shut down? Come on in and give it a shot!
